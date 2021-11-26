@@ -137,3 +137,23 @@
 2021-11-24 20:42:26 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/logs-view/v3-html-testrunner-logs-view_en.ftl"): Not found
 2021-11-24 20:42:26 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/logs-view/v3-html-testrunner-logs-view.ftl"): Found
 2021-11-24 20:42:26 DEBUG cache:45 - Loading template for "v3html/logs-view/v3-html-testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/logs-view/v3-html-testrunner-logs-view.ftl"
+2021-11-26 12:16:48 INFO  Log:11 - =====================================Logintest TEST START=========================================
+2021-11-26 12:16:48 INFO  Log:22 - user going to click on signin button
+2021-11-26 12:16:52 INFO  Log:22 - Enter username and Password
+2021-11-26 12:16:55 INFO  Log:22 - Login is successfully Done
+2021-11-26 12:16:55 INFO  Log:15 - =====================================Logintest TEST END=========================================
+2021-11-26 12:17:10 INFO  Log:11 - =====================================Logintest TEST START=========================================
+2021-11-26 12:17:10 INFO  Log:22 - user going to click on signin button
+2021-11-26 12:17:14 INFO  Log:22 - Enter username and Password
+2021-11-26 12:17:17 INFO  Log:22 - Login is successfully Done
+2021-11-26 12:17:17 INFO  Log:15 - =====================================Logintest TEST END=========================================
+2021-11-26 12:21:20 INFO  Log:11 - =====================================Logintest TEST START=========================================
+2021-11-26 12:21:20 INFO  Log:22 - user going to click on signin button
+2021-11-26 12:21:24 INFO  Log:22 - Enter username and Password
+2021-11-26 12:21:28 INFO  Log:22 - Login is successfully Done
+2021-11-26 12:21:28 INFO  Log:15 - =====================================Logintest TEST END=========================================
+2021-11-26 12:21:46 INFO  Log:11 - =====================================Logintest TEST START=========================================
+2021-11-26 12:21:46 INFO  Log:22 - user going to click on signin button
+2021-11-26 12:21:50 INFO  Log:22 - Enter username and Password
+2021-11-26 12:21:52 INFO  Log:22 - Login is successfully Done
+2021-11-26 12:21:52 INFO  Log:15 - =====================================Logintest TEST END=========================================
